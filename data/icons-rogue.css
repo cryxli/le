@@ -110,92 +110,282 @@
     .icon-tailwind { background-position: -520px -1883px; }
 
 .icon-flurry { background-position: -1040px -1753px; }
-    .icon-alacrity { background-position: -1495px -1168px; }
-    .icon-boundless-blows { background-position: -975px -1558px; }
-    .icon-pavise { background-position: -2260px -648px; }
-    .icon-fusillade { background-position: -1495px -1428px; }
     .icon-arrow-storm { background-position: -2080px -713px; }
-    .icon-blood-revelry { background-position: -195px -908px; }
-    .icon-second-wind { background-position: -1365px -1428px; }
-    .icon-sap-willpower { background-position: -1755px -1753px; }
-    .icon-relentless { background-position: -1495px -1298px; }
-    .icon-adrenaline-rush { background-position: -455px -1753px; }
+    .icon-fusillade { background-position: -1495px -1428px; }
+    .icon-strained-reflexes { background-position: -1098px -129px; }
+    .icon-pavise { background-position: -2260px -648px; }
     .icon-accelerating-impact { background-position: -1885px -843px; }
+    .icon-inexhaustible { background-position: -1755px -1233px; }
+    .icon-boundless-blows { background-position: -975px -1558px; }
+    .icon-giant-slayer { background-position: -780px -1493px; }
+    .icon-bloodplay { background-position: -1690px -258px; }
+    .icon-adrenaline-rush { background-position: -455px -1753px; }
+    .icon-second-wind { background-position: -1365px -1428px; }
+    .icon-alacrity { background-position: -1495px -1168px; }
+    .icon-blood-revelry { background-position: -195px -908px; }
+    .icon-relentless { background-position: -1495px -1298px; }
+    .icon-kineticism { background-position: -1950px -1623px; }
+    .icon-vile-tactics { background-position: -455px -843px; }
+    .icon-sap-willpower { background-position: -1755px -1753px; }
+    .icon-deep-strikes { background-position: -1690px -1233px; }
+    .icon-lethal-vector { background-position: -1170px -1038px; }
+    .icon-compounding-toxin { background-position: -715px -1493px; }
+    .icon-reopened-wounds { background-position: -1885px -1428px; }
+    .icon-precision { background-position: 0 -778px; }
+    .icon-crescendo { background-position: -650px -323px; }
+    .icon-incision { background-position: -1170px -908px; }
+    .icon-shockwave { background-position: -1423px -129px; }
+    .icon-stolen-endurance { background-position: -1870px -648px; }
+    .icon-hamstring { background-position: -1542px -388px; }
+    .icon-billowing-waves { background-position: -585px -648px; }
 
 .icon-shurikens { background-position: -2210px -908px; }
-    .icon-bladed-armor { background-position: -1690px -518px; }
-    .icon-fan-of-blades { background-position: -65px -1038px; }
-    .icon-blade-shield { background-position: -585px -1883px; }
-    .icon-ethereal-blades { background-position: -390px -258px; }
-    .icon-floating-blades { background-position: -1300px -1753px; }
-    .icon-scintillant-steel { background-position: -975px -1558px; }
-    .icon-acrobatics { background-position: -2015px -1103px; }
-    .icon-behind-the-veil { background-position: -975px -973px; }
     .icon-stagger { background-position: -2267px -1818px; }
+    .icon-throwing-star { background-position: -1625px -973px; }
+    .icon-behind-the-veil { background-position: -975px -973px; }
+    .icon-exuberance { background-position: -1040px -1883px; }
+    .icon-flip-of-a-coin { background-position: -1105px -1233px; }
+    .icon-acrobatics { background-position: -2015px -1103px; }
+    .icon-toxic-tips { background-position: -2117px -388px; }
+    .icon-aerodynamic { background-position: -130px -518px; }
+    .icon-deep-cuts { background-position: -2210px -1558px; }
+    .icon-entry-points { background-position: -65px -1233px; }
+    .icon-scintillant-steel { background-position: -975px -1558px; }
+    .icon-charged-steel { background-position: -130px -2273px; }
+    .icon-weighted-projectiles { background-position: -1430px -1818px; }
+    .icon-shuriken-storm { background-position: -325px -1688px; }
+    .icon-ethereal-blades { background-position: -390px -258px; }
+    .icon-alacrity { background-position: -975px -518px; }
+    .icon-jagged-edges { background-position: -2080px -258px; }
+    .icon-abrasive-arsenal { background-position: -1430px -1753px; }
+    .icon-chakram { background-position: -1170px -518px; }
+    .icon-fan-of-blades { background-position: -65px -1038px; }
+    .icon-massacre { background-position: -2015px -1038px; }
+    .icon-ricochet { background-position: -1365px -1883px; }
+    .icon-keen-throw { background-position: -1935px -648px; }
+    .icon-blade-shield { background-position: -585px -1883px; }
+    .icon-deadly-aim { background-position: -1040px -1168px; }
+    .icon-floating-blades { background-position: -1300px -1753px; }
+    .icon-bladed-armor { background-position: -1690px -518px; }
 
 .icon-shift { background-position: -130px -1233px; }
+    .icon-molting { background-position: -1170px -778px; }
+    .icon-vault { background-position: -195px -1428px; }
+    .icon-venom-tipped-arrows { background-position: -1950px -518px; }
+    .icon-arrival-gift { background-position: -2117px -388px; }
+    .icon-rebound { background-position: -1670px -2208px; }
+    .icon-breathing-technique { background-position: -1030px -2078px; }
+    .icon-jade-quiver { background-position: -2080px -1103px; }
+    .icon-jagged-arrows { background-position: -650px -1883px; }
+    .icon-parting-gift { background-position: -1690px -583px; }
+    .icon-elusive { background-position: -1885px -1298px; }
+    .icon-sleight-of-hand { background-position: -2210px -908px; }
+    .icon-shadow-recuperation { background-position: -2015px -713px; }
+    .icon-swift-recovery { background-position: -1950px -1298px; }
     .icon-shadowslip { background-position: -2015px -1103px; }
+    .icon-consumed-by-shadow { background-position: -1820px -1363px; }
+    .icon-unseen-strike { background-position: -1040px -1428px; }
+    .icon-broad-sweep { background-position: -780px -1883px; }
     .icon-velocity { background-position: -455px -648px; }
     .icon-momentum { background-position: -1495px -1363px; }
-    .icon-swift-recovery { background-position: -1950px -1298px; }
-    .icon-shadow-recuperation { background-position: -2015px -713px; }
-    .icon-sleight-of-hand { background-position: -2210px -908px; }
-    .icon-elusive { background-position: -1885px -1298px; }
-    .icon-breathing-technique { background-position: -1030px -2078px; }
-    .icon-rebound { background-position: -1670px -2208px; }
+    .icon-emergency-flask { background-position: -1560px -1948px; }
+    .icon-hidden-blades { background-position: -1170px -1233px; }
+    .icon-through-the-shadows { background-position: -1300px -1428px; }
+    .icon-deadly-ambush { background-position: 0 -1428px; }
+    .icon-hypovolemia { background-position: -2210px -1558px; }
+    .icon-low-blow { background-position: -1300px -1363px; }
+    .icon-lastring-presence { background-position: -65px -1883px; }
+    .icon-braskulas-hesitation { background-position: -1235px -258px; }
+    .icon-jagged-cuts { background-position: -1690px -258px; }
+    .icon-critical-opening { background-position: -1690px -1688px; }
+    .icon-dancing-shadows { background-position: -1885px -1168px; }
 
 .icon-acid-flask { background-position: -1690px -583px; }
-    .icon-lingering-toxicity { background-position: ; }
-    .icon-barrage { background-position: ; }
-    .icon-amatoxic-pools { background-position: ; }
-    .icon-poison-pools { background-position: ; }
-    .icon-toxic-salvo { background-position: ; }
-    .icon-tempered-glass { background-position: ; }
-    .icon-alchemists-gift { background-position: ; }
-    .icon-contaminsation { background-position: ; }
-    .icon-hydrochloric-acid { background-position: ; }
-    .icon-elixir-of-speed { background-position: ; }
-    .icon-corrosive { background-position: ; }
-    .icon-blinding-mixture { background-position: ; }
-    .icon-caustic-concoction { background-position: ; }
-    .icon-lasting-sickness { background-position: ; }
-    .icon-splash-zone { background-position: ; }
-    .icon-knowledge-of-immunity { background-position: ; }
-    .icon-quick-draw { background-position: ; }
-    .icon-hindering-mixture { background-position: ; }
-    .icon-alchemical-proficiency { background-position: ; }
-    .icon-castigate { background-position: ; }
-    .icon-lightweight { background-position: ; }
-    .icon-firebomb-cocktail { background-position: ; }
-    .icon-explosive-flask { background-position: ; }
-    .icon-debilitate { background-position: ; }
-    .icon-piercing-debris { background-position: ; }
-    .icon-cluster-bomb { background-position: ; }
-    .icon-smoulder { background-position: ; }
-    .icon-flammable-concoction { background-position: ; }
+    .icon-lingering-toxicity { background-position: -1300px -1038px; }
+    .icon-barrage { background-position: -1495px -1948px; }
+    .icon-amatoxic-pools { background-position: -455px -843px; }
+    .icon-poison-pools { background-position: -1040px -973px; }
+    .icon-toxic-salvo { background-position: -1430px -1038px; }
+    .icon-tempered-glass { background-position: -1690px -518px; }
+    .icon-alchemists-gift { background-position: -325px -648px; }
+    .icon-contaminsation { background-position: -260px -1363px; }
+    .icon-hydrochloric-acid { background-position: -1950px -518px; }
+    .icon-elixir-of-speed { background-position: -1365px -1883px; }
+    .icon-corrosive { background-position: -325px -648px; }
+    .icon-blinding-mixture { background-position: -975px -973px; }
+    .icon-caustic-concoction { background-position: -1300px -1103px; }
+    .icon-lasting-sickness { background-position: -1170px -1688px; }
+    .icon-splash-zone { background-position: -1820px -1558px; }
+    .icon-knowledge-of-immunity { background-position: -1885px -1363px; }
+    .icon-quick-draw { background-position: 0 -1558px; }
+    .icon-hindering-mixture { background-position: -1300px -1363px; }
+    .icon-alchemical-proficiency { background-position: -975px -1038px; }
+    .icon-castigate { background-position: -130px -1233px; }
+    .icon-lightweight { background-position: -650px -1233px; }
+    .icon-firebomb-cocktail { background-position: -650px -1493px; }
+    .icon-explosive-flask { background-position: -650px -1363px; }
+    .icon-debilitate { background-position: -1300px -1883px; }
+    .icon-piercing-debris { background-position: -1755px -1948px; }
+    .icon-cluster-bomb { background-position: -585px -2143px; }
+    .icon-smoulder { background-position: -2229px -2013px; }
+    .icon-flammable-concoction { background-position: -2080px -1688px; }
 
 .icon-puncture { background-position: -520px -583px; }
+    .icon-sanguine-obsession { background-position: -1922px -388px; }
+    .icon-efficacious-toxin { background-position: -1170px -1688px; }
+    .icon-mutilate { background-position: -1495px -973px; }
+    .icon-nights-descent { background-position: -130px -453px; }
+    .icon-cadence-of-death { background-position: -1040px -1168px; }
+    .icon-toxic-delivery { background-position: -2080px -1103px; }
+    .icon-press-the-attack { background-position: -1820px -1818px; }
+    .icon-thrill-of-anticipation { background-position: -2145px -2143px; }
+    .icon-mind-piercer { background-position: -1820px -518px; }
+    .icon-perforate { background-position: -1690px -258px; }
+    .icon-stay-of-execution { background-position: -130px -518px; }
+    .icon-penumbral-ambush { background-position: -1950px -1168px; }
+    .icon-bloodthirst { background-position: -2210px -1558px; }
+    .icon-hunger { background-position: -1225px -2208px; }
+    .icon-timing { background-position: -1235px -1103px; }
+    .icon-scalebane { background-position: -1950px -518px; }
+    .icon-rapid-strikes { background-position: -2210px -323px; }
+    .icon-splinter { background-position: -1495px -1558px; }
+    .icon-redouble { background-position: -1495px -1428px; }
+    .icon-seized-prey { background-position: -1170px -1428px; }
+    .icon-cross-forward { background-position: -2052px -388px; }
+    .icon-inescapable { background-position: -585px -518px; }
+    .icon-debilitation { background-position: -65px -1233px; }
+    .icon-shatter { background-position: -1950px -713px; }
+    .icon-sealed-fate { background-position: -1040px -1298px; }
+    .icon-deaths-imprint { background-position: -1170px -1233px; }
+
 .icon-cinder-strike { background-position: -1105px -1948px; }
+    .icon-explosive-impact { background-position: -2229px -2013px; }
+    .icon-explosive-lash { background-position: -585px -2143px; }
+    .icon-cauterize { background-position: 0 -1038px; }
+    .icon-tireless { background-position: -1885px -1493px; }
+    .icon-flame-alchemist { background-position: -650px -1363px; }
+    .icon-eagerness { background-position: -585px -648px; }
+    .icon-pocket-sand { background-position: -715px -713px; }
+    .icon-overexertion { background-position: -1300px -1558px; }
+    .icon-searing-blows { background-position: -1495px -713px; }
+    .icon-blast-wave { background-position: -1885px -1883px; }
+    .icon-soot-and-ash { background-position: -975px -973px; }
+    .icon-inferno { background-position: -2210px -2143px; }
+    .icon-incinerate { background-position: -1690px -1558px; }
+    .icon-fire-walker { background-position: -2210px -1753px; }
+    .icon-kindling { background-position: -1040px -1948px; }
+    .icon-ignition { background-position: -2080px -1688px; }
+    .icon-flammable-toxins { background-position: -520px -2143px; }
+    .icon-burning-dagger { background-position: -1745px -2078px; }
+    .icon-oil-coating { background-position: -1755px -908px; }
+    .icon-flaming-fury { background-position: -2145px -1493px; }
+    .icon-elusive { background-position: -130px -1233px; }
+    .icon-combustible { background-position: -1105px -1363px; }
+    .icon-firebreathing { background-position: -1755px -1948px; }
+    .icon-elemental-vulnerability { background-position: -1495px -1753px; }
+    .icon-umbral-conflagration { background-position: -2145px -1493px; }
+    .icon-coated-darts { background-position: -585px -583px; }
+    .icon-fire-eater { background-position: -279px -2013px; }
+
 .icon-umbral-blades { background-position: -409px -2013px; }
+    .icon-loathing { background-position: -585px -518px; }
+    .icon-steel-torrent { background-position: -1430px -1883px; }
+    .icon-shredding-daggers { background-position: -1040px -1168px; }
+    .icon-lethal-darkness { background-position: -1170px -1233px; }
+    .icon-cacophony-of-steel { background-position: -845px -2143px; }
+    .icon-stabbing-blast { background-position: 0 -1883px; }
+    .icon-umbral-remnant { background-position: -130px -453px; }
+    .icon-sword-thrower { background-position: -968px -129px; }
+    .icon-edge-of-obscurity { background-position: -1560px -1558px; }
+    .icon-dawnfall { background-position: -650px -843px; }
+    .icon-soul-thief { background-position: -2080px -258px; }
+    .icon-nightmare-dash { background-position: -130px -1233px; }
+    .icon-precision-cuts { background-position: -780px -1038px; }
+    .icon-backstab { background-position: -1235px -258px; }
+    .icon-explosive-blades { background-position: -390px -713px; }
+    .icon-cut-and-leave { background-position: -1040px -1883px; }
+    .icon-slice-the-legs { background-position: -2210px -1558px; }
+    .icon-emerald-cutlass { background-position: -1225px -2078px; }
+    .icon-bloody-trail { background-position: -2080px -1428px; }
+    .icon-jagged-carvings { background-position: -1300px -973px; }
+    .icon-burst-of-agony { background-position: -975px -1883px; }
+    .icon-kunai-belt { background-position: -2210px -973px; }
+    .icon-subzero-intrusion { background-position: -585px -1168px; }
+    .icon-twilight-assault { background-position: -130px -258px; }
+    .icon-hidden-blades { background-position: -455px -1753px; }
+    .icon-coldsnap-strike { background-position: -1495px -1883px; }
+    .icon-duskhunter { background-position: -195px -2143px; }
 
 .icon-smoke-bomb { background-position: -1560px -1558px; }
-    .icon-cleansing-steam { background-position: -1950px -1623px; }
-    .icon-moonlight-bomb { background-position: -1625px -1623px; }
+    .icon-venom-infusion { background-position: -715px -1493px; }
+    .icon-knives-in-the-dark { background-position: -1170px -1233px; }
+    .icon-toxic-cloud { background-position: -1625px -1948px; }
+    .icon-swirling-fog { background-position: -1820px -1363px; }
+    .icon-blood-bandit { background-position: -1495px -973px; }
+    .icon-umbral-assault { background-position: -2015px -843px; }
+    .icon-eroding-fumes { background-position: -1950px -713px; }
+    .icon-smoke-blades { background-position: -1300px -973px; }
+    .icon-smokescreen-arrow { background-position: -2080px -258px; }
+    .icon-hidden-blows { background-position: -1235px -258px; }
     .icon-thick-smoke { background-position: -1300px -1363px; }
-    .icon-generosity { background-position: -1820px -1558px; }
-    .icon-enfeeblement { background-position: -1542px -388px; }
-    .icon-concealed-in-carnage { background-position: -1365px -778px; }
-    .icon-shrouded-in-darkness { background-position: -1040px -1818px; }
     .icon-lingering-fumes { background-position: -1755px -1233px; }
-    .icon-rapid-concealment { background-position: -1300px -1428px; }
+    .icon-shadow-hunter { background-position: -845px -388px; }
     .icon-impending-gloom { background-position: -1282px -388px; }
+    .icon-concealed-in-carnage { background-position: -1365px -778px; }
+    .icon-cloaked-incursion { background-position: -669px -2013px; }
+    .icon-shrouded-in-darkness { background-position: -1040px -1818px; }
+    .icon-generosity { background-position: -1820px -1558px; }
+    .icon-escape-tactics { background-position: -1885px -1493px; }
+    .icon-shared-concealment { background-position: -1040px -1688px; }
+    .icon-rapid-concealment { background-position: -1300px -1428px; }
+    .icon-enfeeblement { background-position: -1542px -388px; }
+    .icon-moonlight-bomb { background-position: -1625px -1623px; }
+    .icon-trapped-shadows { background-position: -1300px -1558px; }
+    .icon-cleansing-steam { background-position: -1950px -1623px; }
+    .icon-cleaving-shadows { background-position: -455px -1753px; }
+    .icon-engulfed-in-flames { background-position: -2080px -1688px; }
+    .icon-invigorating-darkness { background-position: -1365px -1428px; }
+    .icon-purging-fumes { background-position: -1105px -1493px; }
+    .icon-hasty-combustion { background-position: -780px -1168px; }
+    .icon-refreshment { background-position: -1950px -1298px; }
 
 .icon-decoy { background-position: -2008px -129px; }
+    .icon-remote-detonator { background-position: -325px -453px; }
+    .icon-rewired-detonator { background-position: -1755px -1753px; }
+    .icon-stuffed { background-position: -1235px -2143px; }
+    .icon-excessive-explosives { background-position: -1235px -1363px; }
+    .icon-explosive-charges { background-position: -910px -2078px; }
+    .icon-frostfire-powder { background-position: -1300px -778px; }
+    .icon-ambush { background-position: -585px -843px; }
+    .icon-shrouded-core { background-position: -520px -388px; }
+    .icon-freezing-blast { background-position: -1560px -1818px; }
+    .icon-boom { background-position: -650px -1493px; }
+    .icon-lasting-presence { background-position: -1755px -1233px; }
+    .icon-into-the-shadows { background-position: -1885px -1298px; }
+    .icon-short-fuse { background-position: -1690px -1688px; }
+    .icon-efficient-construction { background-position: -975px -1038px; }
+    .icon-embedded-spikes { background-position: -910px -583px; }
+    .icon-on-fire { background-position: -2080px -1688px; }
+    .icon-backup-buddy { background-position: -130px -2078px; }
+    .icon-buring-oil { background-position: -1755px -908px; }
+    .icon-sonic-detonation { background-position: -1170px -648px; }
+    .icon-ear-shatter { background-position: -2015px -2143px; }
+    .icon-kelthan-oil { background-position: -1690px -1558px; }
+    .icon-meticulous-construction { background-position: -344px -2013px; }
+    .icon-harrowing-noise { background-position: -1690px -1948px; }
+    .icon-acid-fumes { background-position: -715px -1493px; }
+    .icon-sound-of-flames { background-position: -455px -648px; }
+    .icon-warning-sound { background-position: -1495px -1363px; }
+    .icon-grand-diversion { background-position: -2080px -1558px; }
+
 .icon-ballista { background-position: -1950px -1103px; }
 
 .icon-shadow-cascade { background-position: -1885px -1168px; }
+
 .icon-synchronized-strike { background-position: -2190px -2208px; }
+
 .icon-lethal-mirage { background-position: -1690px -908px; }
+
 .icon-dancing-strikes { background-position: -65px -323px; }
 
 .icon-multishot { background-position: -1495px -1428px; }
@@ -214,12 +404,18 @@
     .icon-bodkin-points { background-position: -130px -1493px; }
 
 .icon-dark-quiver { background-position: -130px -453px; }
+
 .icon-hail-of-arrows { background-position: -1625px -1883px; }
+
 .icon-detonating-arrow { background-position: -1235px -1688px; }
 
 .icon-explosive-trap { background-position: -520px -778px; }
+
 .icon-net { background-position: -130px -908px; }
+
 .icon-aerial-assault { background-position: -1235px -1038px; }
+
 .icon-dive-bomb { background-position: -780px -1428px; }
+
 .icon-falconry { background-position: -1820px -1103px; }
 

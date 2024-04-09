@@ -1,0 +1,31 @@
+.blessing {
+    display: inline-block;
+    background-image: url('items.webp');
+    width: 83px;
+    height: 83px;
+}
+.blessing.inline {
+    transform: scale(0.385);
+    margin: -15px -25px -35px -25px;
+}
+
+.blessing-winds-of-fortune { background-position: -840px -1628px; }
+.blessing-apex-of-fortune { background-position: -1764px -1628px; }
+.blessing-reach-of-flame { background-position: -168px -1460px; }
+.blessing-depths-of-infinity { background-position: -1512px -1880px; }
+.blessing-echo-of-solarum { background-position: -168px -2132px; }
+.blessing-cruelty-of-formosus { background-position: -588px -1880px; }
+.blessing-vigilance-of-the-damned { background-position: -1428px -1460px; }
+.blessing-crash-of-the-waves { background-position: -1512px -2636px; }
+.blessing-mysteries-of-the-deep { background-position: -924px -2468px; }
+.blessing-boon-of-the-scarab { background-position: -2129px -1544px; }
+.blessing-inevitability-of-the-void { background-position: -2856px -2552px; }
+.blessing-resolve-of-humanity { background-position: -2297px -1544px; }
+.blessing-survival-of-might { background-position: -1008px -2468px; }
+.blessing-memory-of-masters { background-position: -2016px -2132px; }
+.blessing-remnants-of-the-elders { background-position: -1092px -1964px; }
+.blessing-bulwark-of-the-tundra { background-position: -1680px -2216px; }
+.blessing-fury-of-the-north { background-position: -2688px -1796px; }
+.blessing-body-of-obsidian { background-position: -2352px -1628px; }
+.blessing-patience-of-herkir { background-position: -2688px -2384px; }
+

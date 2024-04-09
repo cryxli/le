@@ -1,44 +1,234 @@
 .icon-class-mage { background-position: -258px 0; }
     .icon-arcanist { background-position: -130px -1168px; }
     .icon-scholar { background-position: -1495px -1818px; }
+    .icon-elementalist { background-position: -585px -1038px; }
+    .icon-reactive-ward { background-position: -585px -258px; }
+    .icon-preparation { background-position: -2145px -778px; }
+    .icon-arcane-current { background-position: -2210px -778px; }
     .icon-mage-flurry { background-position: -1355px -2208px; }
+    .icon-arcane-flames { background-position: -845px -1493px; }
+    .icon-warden { background-position: -2210px -258px; }
     .icon-knowledge-of-destruction { background-position: -390px -973px; }
+    .icon-rune-of-winter { background-position: -325px -518px; }
+    .icon-sun-and-storms { background-position: -585px -908px; }
+    .icon-ice-and-fire { background-position: -260px -583px; }
+    .icon-silver-rune { background-position: -975px -843px; }
+    .icon-arcane-wind { background-position: -2210px -1038px; }
 
 .icon-class-sorcerer { background-position: -0px -0px; }
     .icon-arcane-momentum { background-position: -1820px -1038px; }
-    .icon-essence-of-celerity { background-position: -1365px -973px; }
     .icon-calculated-destruction { background-position: -780px -1363px; }
-    .icon-cryomancer { background-position: -260px -2078px; }
-    .icon-chill-to-the-bone { background-position: -1040px -1233px; }
-    .icon-crackling-precision { background-position: -390px -1103px; }
-    .icon-arcane-obliteration { background-position: -325px -973px; }
-    .icon-recollection { background-position: -585px -1363px; }
-    .icon-archmage { background-position: -2210px -1753px; }
     .icon-mana-shell { background-position: -2080px -1363px; }
+    .icon-essence-of-celerity { background-position: -1365px -973px; }
+    .icon-afterglow { background-position: -1950px -1623px; }
     .icon-wisdom { background-position: -455px -1363px; }
+    .icon-pyromancer { background-position: -390px -1233px; }
+    .icon-cryomancer { background-position: -260px -2078px; }
+    .icon-ceraunomancer { background-position: -585px -1233px; }
+    .icon-whirling-snow { background-position: -845px -1623px; }
+    .icon-lost-knowledge { background-position: -390px -973px; }
+    .icon-lavamancer { background-position: -325px -1103px; }
+    .icon-chill-to-the-bone { background-position: -1040px -1233px; }
+    .icon-rift-bolt { background-position: -1820px -1493px; }
+    .icon-inferno { background-position: 0 -843px; }
+    .icon-arcane-avalanche { background-position: -2015px -778px; }
+    .icon-crackling-precision { background-position: -390px -1103px; }
     .icon-arcane-insight { background-position: -130px -2078px; }
+    .icon-chronomancy { background-position: -65px -1233px; }
+    .icon-warder { background-position: -1755px -1753px; }
+    .icon-arcane-obliteration { background-position: -325px -973px; }
+    .icon-spell-slinger { background-position: -1430px -453px; }
+    .icon-elemental-ascendance { background-position: -260px -973px; }
+    .icon-distant-spark { background-position: -1365px -1298px; }
+    .icon-elixir-of-knowledge { background-position: -650px -1363px; }
+    .icon-dragon-mage { background-position: -455px -1753px; }
+    .icon-dragon-breath { background-position: -325px -1753px; }
+    .icon-arcane-current { background-position: -2210px -778px; }
+    .icon-recollection { background-position: -585px -1363px; }
+    .icon-mirror-breath { background-position: -1040px -1688px; }
+    .icon-archmage { background-position: -2210px -1753px; }
 
 .icon-class-runemaster { background-position: -774px -129px; }
-    .icon-sphere-of-protection { background-position: -585px -258px; }
     .icon-unsealed-mana { background-position: -1170px -1168px; }
+    .icon-sphere-of-protection { background-position: -585px -258px; }
+    .icon-quitessence-of-triumph { background-position: -65px -1168px; }
     .icon-arcane-focus { background-position: -1755px -1493px; }
-    .icon-inscribed-instruments { background-position: -1550px -2078px; }
+    .icon-rune-of-renewal { background-position: -1755px -1753px; }
+    .icon-runeword-cataclysm { background-position: -845px -1753px; }
+    .icon-transcendence { background-position: -975px -2143px; }
+    .icon-circle-of-elements { background-position: -455px -1428px; }
+    .icon-never-late { background-position: -1644px -2013px; }
     .icon-edict-of-the-scion { background-position: -325px -1883px; }
+    .icon-mental-catalysis { background-position: -2099px -1948px; }
+    .icon-nimbus-walk { background-position: -2164px -1948px; }
+    .icon-inscribed-instruments { background-position: -1550px -2078px; }
+    .icon-freezing-point { background-position: -1290px -2078px; }
+    .icon-rune-of-dilation { background-position: -390px -1883px; }
+    .icon-decree-of-the-eternal-tundra { background-position: -1170px -2143px; }
+    .icon-decree-of-the-bountiful-ocean { background-position: -1293px -129px; }
+    .icon-decree-of-the-burning-wind { background-position: -455px -2273px; }
+    .icon-runic-fortress { background-position: -1152px -388px; }
+    .icon-ancient-inscriptions { background-position: -965px -2208px; }
+    .icon-brand-of-deception { background-position: -1030px -2208px; }
+    .icon-cerulean-runestones { background-position: -1300px -648px; }
+    .icon-runeword-hurricane { background-position: -780px -1623px; }
+    .icon-sanguine-runestones { background-position: -1477px -388px; }
+    .icon-runeword-avalanche { background-position: 0 -1623px; }
+    .icon-runeword-inferno { background-position: -1755px -778px; }
+    .icon-orders-imposition { background-position: -1355px -2078px; }
+    .icon-jagged-veil { background-position: -1095px -2208px; }
+    .icon-logocracy { background-position: -1690px -2143px; }
+    .icon-celectial-doom { background-position: -1485px -2078px; }
 
 .icon-class-spellblade { background-position: -129px 0; }
     .icon-elemental-affinity { background-position: -325px -453px; }
+    .icon-infused-weapon { background-position: -1820px -518px; }
+    .icon-arcane-warden { background-position: -2015px -1558px; }
+    .icon-flame-walker { background-position: -650px -1493px; }
+    .icon-elemental-strikes { background-position: -130px -1623px; }
+    .icon-incinerating-aura { background-position: -455px -778px; }
+    .icon-frozen-steel { background-position: -1950px -778px; }
+    .icon-arcane-shielding { background-position: -1875px -2078px; }
+    .icon-wardens-echo { background-position: -455px -1818px; }
+    .icon-freezing-aura { background-position: -845px -1623px; }
+    .icon-fire-blood { background-position: -845px -778px; }
+    .icon-crackling-aura { background-position: -1105px -1753px; }
+    .icon-essence-duel { background-position: -2145px -2143px; }
+    .icon-storm-blade { background-position: -390px -1363px; }
+    .icon-shattered-aegis { background-position: -130px -843px; }
+    .icon-defender-of-welryn { background-position: -975px -843px; }
+    .icon-mana-reaver { background-position: -195px -1753px; }
+    .icon-gemini { background-position: -1495px -713px; }
+    .icon-prismatic-blade { background-position: -585px -908px; }
+    .icon-burning-hands { background-position: -195px -1623px; }
+    .icon-river-blade { background-position: -1430px -323px; }
+    .icon-molten-edge { background-position: -1820px -1428px; }
+    .icon-awe-strike { background-position: -520px -1623px; }
+    .icon-volkas-razor { background-position: -650px -1753px; }
+    .icon-burder-of-knowledge { background-position: -715px -1363px; }
+    .icon-mental-fortitude { background-position: -1365px -1493px; }
+    .icon-flame-drinker { background-position: 0 -1233px; }
+    .icon-outrun-and-outlast { background-position: -65px -583px; }
+    .icon-blades-of-fires { background-position: -1040px -1948px; }
+    .icon-prodigy { background-position: -325px -1753px; }
+    .icon-blade-weaver { background-position: -1355px -2208px; }
+
+.icon-lightning-blast { background-position: -325px -1688px; }
+
+.icon-fireball { background-position: -390px -908px; }
+
+.icon-snap-freeze { background-position: -520px -1428px; }
+
+.icon-elemental-nova { background-position: -455px -1428px; }
+
+.icon-mana-strike { background-position: -1430px -323px; }
+
+.icon-flame-ward { background-position: -0px -1233px; }
+    .icon-rimeskin { background-position: -195px -1363px; }
+    .icon-glacial-reinforcement { background-position: -975px -843px; }
+    .icon-eye-of-flame { background-position: -2080px -1688px; }
+    .icon-frostguard { background-position: -1560px -1818px; }
+    .icon-frost-ward { background-position: -325px -518px; }
+    .icon-telepyrosis { background-position: -1040px -1948px; }
+    .icon-flame-runner { background-position: -1040px -2143px; }
+    .icon-fire-aura { background-position: -650px -1493px; }
+    .icon-through-flames { background-position: -1690px -1558px; }
+    .icon-lightning-ward { background-position: -1300px -2143px; }
+    .icon-infusion { background-position: -1430px -453px; }
+    .icon-retribution { background-position: -520px -2143px; }
+    .icon-dilation { background-position: -650px -1818px; }
+    .icon-blast-field { background-position: -2080px -1038px; }
+    .icon-energize { background-position: -1170px -1168px; }
+    .icon-astonish { background-position: -1625px -258px; }
+    .icon-recollection { background-position: -1755px -1493px; }
+    .icon-warden-pulse { background-position: -2145px -1558px; }
+    .icon-stalwart-defense { background-position: -2080px -1363px; }
+    .icon-desperate-defense { background-position: -585px -258px; }
+    .icon-prismatic-buffer { background-position: -975px -1948px; }
+    .icon-barrier { background-position: -1875px -2078px; }
+    .icon-concentrated-shielding { background-position: -585px -1363px; }
+    .icon-selfless-sorcery { background-position: 0 -648px; }
+    .icon-fuel-the-flames { background-position: -130px -2078px; }
+    .icon-shrewd-shielding { background-position: -975px -1038px; }
+    .icon-fortification { background-position: -1105px -843px; }
+    .icon-dual-aegis { background-position: -1987px -388px; }
+    .icon-mental-aegis { background-position: -1365px -1168px; }
+    .icon-warmth { background-position: -1950px -1298px; }
+
+.icon-teleport { background-position: -1105px -518px; }
+    .icon-tunnel-finder { background-position: -1365px -258px; }
+    .icon-rock-phase { background-position: -455px -1298px; }
+    .icon-mana-tunnel { background-position: -975px -1038px; }
+    .icon-frigid-departure { background-position: -520px -1428px; }
+    .icon-wormhole { background-position: -1969px -1948px; }
+    .icon-time-dilation { background-position: -650px -1818px; }
+    .icon-intense-arrival { background-position: 0 -1493px; }
+    .icon-flicker { background-position: -65px -778px; }
+    .icon-unstable-arrival { background-position: -1228px -129px; }
+    .icon-crystaline-passage { background-position: -975px -843px; }
+    .icon-out-of-body { background-position: -1495px -1623px; }
+    .icon-comet-rush { background-position: -1300px -1818px; }
+    .icon-ether-barrier { background-position: -910px -843px; }
+    .icon-stable-bubble { background-position: -65px -518px; }
+    .icon-out-of-mind { background-position: -65px -1428px; }
+    .icon-elemental-affinity { background-position: -1755px -1948px; }
+    .icon-resonant-plasma { background-position: -910px -1298px; }
+    .icon-elemental-dawn { background-position: -455px -1818px; }
+    .icon-enexpected-copy { background-position: -1820px -258px; }
+    .icon-uncontrolled-duplication { background-position: -325px -713px; }
+    .icon-decoy-position { background-position: -910px -1558px; }
+    .icon-elemental-dusk { background-position: -2080px -1168px; }
+    .icon-stable-duplicants { background-position: -1365px -258px; }
+    .icon-elemental-midnight { background-position: -1560px -973px; }
+
+.icon-frost-claw { background-position: -2015px -1233px; }
+
+.icon-static { background-position: -1820px -1493px; }
 
 .icon-glacier { background-position: -1885px -713px; }
+    .icon-engulfing-vortex { background-position: -910px -1753px; }
+    .icon-greater-vortex { background-position: -2145px -453px; }
+    .icon-moderate-vortex { background-position: -1105px -1753px; }
+    .icon-lesser-vortex { background-position: -325px -1168px; }
+    .icon-endless-frost { background-position: -390px -2273px; }
+    .icon-rime-caster { background-position: -1560px -1818px; }
+    .icon-greater-chilling { background-position: -1170px -323px; }
+    .icon-moderate-chilling { background-position: -1228px -129px; }
+    .icon-lesser-chilling { background-position: -2267px -1818px; }
+    .icon-whirlpools { background-position: -520px -1298px; }
+    .icon-chilling-force { background-position: -845px -1623px; }
+    .icon-cold-victory { background-position: -1170px -648px; }
+    .icon-lesser-glacier { background-position: -1579px -2013px; }
+    .icon-perma-frost { background-position: -2210px -1038px; }
+    .icon-critical-rejuvenation { background-position: -1105px -518px; }
+    .icon-cold-snap { background-position: -910px -1298px; }
+    .icon-breaking-point { background-position: -455px -1753px; }
     .icon-frost-grip { background-position: -1105px -1493px; }
     .icon-resplendent-frost { background-position: -455px -1103px; }
-    .icon-critical-rejuvenation { background-position: -1105px -518px; }
-    .icon-cold-victory { background-position: -1170px -648px; }
-    .icon-breaking-point { background-position: -455px -1753px; }
+    .icon-moderate-destruction { background-position: -650px -1493px; }
+    .icon-fading-echoes { background-position: -1560px -1818px; }
     .icon-greater-destruction { background-position: -1839px -2013px; }
+    .icon-lesser-destruction { background-position: -390px -908px; }
+    .icon-static-collapse { background-position: -1170px -973px; }
     .icon-morditas-bane { background-position: -1820px -1818px; }
-    .icon-chilling-force { background-position: -845px -1623px; }
-    .icon-greater-chilling { background-position: -1170px -323px; }
-    .icon-endless-frost { background-position: -390px -2273px; }
+    .icon-critical-barrier { background-position: -130px -1623px; }
+    .icon-snow-blink { background-position: -1820px -1038px; }
+
+.icon-disintegrate { background-position: -1755px -973px; }
+
+.icon-volcanic-orb { background-position: -1235px -1363px; }
+
+.icon-focus { background-position: -1170px -648px; }
+    .icon-mana-flooded { background-position: -1365px -1493px; }
+    .icon-desperate-meditation { background-position: -845px -1233px; }
+    .icon-revelation { background-position: -1950px -1298px; }
+    .icon-energy-infusion { background-position: -1495px -1363px; }
+    .icon-null-profusion { background-position: -1625px -908px; }
+    .icon-null-infusion { background-position: -1670px -2208px; }
+    .icon-iron-stance { background-position: -260px -1103px; }
+    .icon-chilling-aura { background-position: -1950px -1038px; }
+
+.icon-static-orb { background-position: -1300px -2143px; }
 
 .icon-ice-barrage { background-position: -1690px -1363px; }
     .icon-hail-storm { background-position: -585px -1168px; }
@@ -51,32 +241,29 @@
     .icon-nailed-shot { background-position: -1560px -973px; }
     .icon-sublimation { background-position: 0 -1493px; }
 
-.icon-teleport { background-position: -1105px -518px; }
-    .icon-resonant-plasma { background-position: -910px -1298px; }
-    .icon-crystaline-passage { background-position: -975px -843px; }
-    .icon-time-dilation { background-position: -650px -1818px; }
-    .icon-mana-tunnel { background-position: -975px -1038px; }
-    .icon-tunnel-finder { background-position: -1365px -258px; }
-    .icon-rock-phase { background-position: -455px -1298px; }
+.icon-arcane-ascendance { background-position: -1365px -1493px; }
 
-.icon-flame-ward { background-position: -0px -1233px; }
-    .icon-stalwart-defense { background-position: -2080px -1363px; }
-    .icon-desperate-defense { background-position: -585px -258px; }
-    .icon-fuel-the-flames { background-position: -130px -2078px; }
-    .icon-dual-aegis { background-position: -1987px -388px; }
-    .icon-barrier { background-position: -1875px -2078px; }
-    .icon-prismatic-buffer { background-position: -975px -1948px; }
-    .icon-dilation { background-position: -650px -1818px; }
-    .icon-shrewd-shielding { background-position: -975px -1038px; }
-    .icon-mental-aegis { background-position: -1365px -1168px; }
+.icon-black-hole { background-position: -325px -1168px; }
 
-.icon-focus { background-position: -1170px -648px; }
-    .icon-mana-flooded { background-position: -1365px -1493px; }
-    .icon-desperate-meditation { background-position: -845px -1233px; }
-    .icon-revelation { background-position: -1950px -1298px; }
-    .icon-energy-infusion { background-position: -1495px -1363px; }
-    .icon-null-profusion { background-position: -1625px -908px; }
-    .icon-null-infusion { background-position: -1670px -2208px; }
-    .icon-iron-stance { background-position: -260px -1103px; }
-    .icon-chilling-aura { background-position: -1950px -1038px; }
+.icon-meteor { background-position: -260px -1818px; }
+
+.icon-flame-reave { background-position: -1755px -1948px; }
+
+.icon-enchant-weapon { background-position: -2080px -1168px; }
+
+.icon-firebrand { background-position: -715px -713px; }
+
+.icon-surge { background-position: -2015px -518px; }
+
+.icon-shatter-strike { background-position: -1950px -1038px; }
+
+.icon-flame-rush { background-position: -195px -1493px; }
+
+.icon-frost-wall { background-position: -975px -1233px; }
+
+.icon-runebolt { background-position: -260px -518px; }
+
+.icon-glyph-of-dominion { background-position: -799px -2013px; }
+
+.icon-runic-invocation { background-position: -585px -713px; }
 

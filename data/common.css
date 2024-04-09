@@ -58,3 +58,9 @@ h3 .icon-class {
     margin: -16px -32px -48px -32px;
 }
 
+/* items */
+.item.unique { color: rgba(235, 115, 10, .8); }
+.item.exalted { color: #a36fd1; }
+.item { text-decoration: none; }
+.item:hover { text-decoration: underline; }
+
